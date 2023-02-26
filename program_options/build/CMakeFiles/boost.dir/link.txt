@@ -1,0 +1,1 @@
+/home/russellbest/Development/emsdk/upstream/emscripten/em++ -s WASM=0 -s EXPORTED_FUNCTIONS='[_main]' @CMakeFiles/boost.dir/objects1.rsp -o boost.html @CMakeFiles/boost.dir/linklibs.rsp
